@@ -1,0 +1,13 @@
+C:\Users\Przemek\source\repos\sem2_78\sem2_78\bin\Debug\netcoreapp3.1\sem2_78.exe
+C:\Users\Przemek\source\repos\sem2_78\sem2_78\bin\Debug\netcoreapp3.1\sem2_78.deps.json
+C:\Users\Przemek\source\repos\sem2_78\sem2_78\bin\Debug\netcoreapp3.1\sem2_78.runtimeconfig.json
+C:\Users\Przemek\source\repos\sem2_78\sem2_78\bin\Debug\netcoreapp3.1\sem2_78.runtimeconfig.dev.json
+C:\Users\Przemek\source\repos\sem2_78\sem2_78\bin\Debug\netcoreapp3.1\sem2_78.dll
+C:\Users\Przemek\source\repos\sem2_78\sem2_78\bin\Debug\netcoreapp3.1\sem2_78.pdb
+C:\Users\Przemek\source\repos\sem2_78\sem2_78\obj\Debug\netcoreapp3.1\sem2_78.csprojAssemblyReference.cache
+C:\Users\Przemek\source\repos\sem2_78\sem2_78\obj\Debug\netcoreapp3.1\sem2_78.AssemblyInfoInputs.cache
+C:\Users\Przemek\source\repos\sem2_78\sem2_78\obj\Debug\netcoreapp3.1\sem2_78.AssemblyInfo.cs
+C:\Users\Przemek\source\repos\sem2_78\sem2_78\obj\Debug\netcoreapp3.1\sem2_78.csproj.CoreCompileInputs.cache
+C:\Users\Przemek\source\repos\sem2_78\sem2_78\obj\Debug\netcoreapp3.1\sem2_78.dll
+C:\Users\Przemek\source\repos\sem2_78\sem2_78\obj\Debug\netcoreapp3.1\sem2_78.pdb
+C:\Users\Przemek\source\repos\sem2_78\sem2_78\obj\Debug\netcoreapp3.1\sem2_78.genruntimeconfig.cache
